@@ -8,10 +8,13 @@
         <entry key="..\:/Users/acer/AndroidStudioProjects/FoodProject/app/src/main/res/drawable/facebook.xml" value="0.2375" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/FoodProject/app/src/main/res/drawable/facebooklogin.xml" value="0.2385" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/FoodProject/app/src/main/res/drawable/googlecolor.xml" value="0.2385" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FoodProject/app/src/main/res/layout/activity_custom_toolbar.xml" value="0.23229166666666667" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/FoodProject/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/FoodProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FoodProject/app/src/main/res/layout/activity_main_screen.xml" value="0.23229166666666667" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/FoodProject/app/src/main/res/layout/activity_sign_up.xml" value="0.23229166666666667" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/FoodProject/app/src/main/res/layout/activity_splash_screen.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FoodProject/app/src/main/res/layout/welcome.xml" value="0.23229166666666667" />
       </map>
     </option>
   </component>
