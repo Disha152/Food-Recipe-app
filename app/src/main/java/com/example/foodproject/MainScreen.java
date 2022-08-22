@@ -1,27 +1,20 @@
 package com.example.foodproject;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.RecyclerView;
+
 public class MainScreen extends AppCompatActivity {
-    ImageView heart;
+    RecyclerView mRecyclerView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_screen);
-
+        mRecyclerView = findViewById(R.id.recyclerview);
         getSupportActionBar().hide();
-        heart=findViewById(R.id.fav);
-        heart.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Toast.makeText(MainScreen.this, "Added to favourites!", Toast.LENGTH_SHORT).show();
-            }
-        });
-
     }
 }
